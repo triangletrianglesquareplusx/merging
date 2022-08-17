@@ -10,6 +10,7 @@ function App() {
         <p>This is the count {count}
         </p>
         <button onClick={()=>setCount(count+1)}>Click to increment</button>
+        <p>This is something very cool yesterday!</p>
       </header>
     </div>
   );
