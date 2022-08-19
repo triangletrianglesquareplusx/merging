@@ -11,8 +11,7 @@ function App() {
         </p>
         <button onClick={()=>setCount(count+1)}>Click to increment</button>
 
-        <p>This is something very cool now!</p>
-        <p>I wish I knew more about git!</p>
+        <p>This is the new feature branch!!!</p>
 
       </header>
     </div>
