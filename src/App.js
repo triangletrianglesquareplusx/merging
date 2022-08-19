@@ -5,7 +5,7 @@ function App() {
   
   return (
     <section>
-      This is a hopefully conflicting section
+      This is something else!
     </section>
   );
 }
