@@ -12,7 +12,7 @@ function App() {
         <button onClick={()=>setCount(count+1)}>Click to increment</button>
 
         <p>This is something very cool now!</p>
-        <p>I wish I knew more about git!</p>
+        <p>I wish I knew more about git and other stuff too!</p>
 
       </header>
     </div>
